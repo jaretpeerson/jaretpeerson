@@ -7,6 +7,6 @@ As a designer and creative developer, I bridge the gap between aesthetic and fun
 ### 🛠️ Tech Stack
 - **Languages:** HTML5, CSS3, JavaScript
 - **Design:** Figma, Webflow, Adobe CC, Lottie
-- **Development:** VS Code, GitHub, NPM, Node, Terminal, Astro, GSAP, jQuery
+- **Development:** VS Code, GitHub, Node,  NPM, Terminal, Astro, GSAP, jQuery
 - **Deployment:** Vercel, Vite, Parcel, Webpack
-- **Interests:** Next.js, React, Angular, Vue.js, Svelte
+- **Interests:** React, Angular, Svelte, Next.js, Vue.js
