@@ -1,12 +1,13 @@
-# Hi, I’m Jaret Peerson!
-As a creative developer, I bridge the gap between aesthetic and function, taking ideas from 0 -> 1 or 1 -> 100. From design to development, I focus on creating scalable brand systems, award-winning websites, and thoughtful digital experiences.
+# Hi, I'm Jaret Peerson!
+Front-end developer and designer crafting premium digital experiences, known for design-to-code thinking, pixel-perfect execution, and a deep focus on performance, accessibility, and usability. Creator of Toggle Supply, an award-winning open-source component library recognized by CSS Design Awards as Website of the Day, built on reusable UI patterns, modern CSS techniques, and modular front-end architecture. Dedicated mentor and early AI adopter, consistently finding new ways to increase creative leverage, automate workflows, and amplify impact.
 
-💬 Reach me at: [contact@jaretpeerson.com](mailto:contact@jaretpeerson.com)  
-🌐 Visit my site: [www.jaretpeerson.com](http://www.jaretpeerson.com)
+📬 Reach me at: [contact@jaretpeerson.com](mailto:contact@jaretpeerson.com)
+🌐 Visit my site: [toggle.supply](https://toggle.supply)
 
-### 🛠️ Tech Stack
-- **Languages:** HTML5, CSS3, JavaScript
-- **Design:** Figma, Webflow, Adobe CC, Lottie
-- **Development:** VS Code, GitHub, Node,  NPM, Terminal, Astro, GSAP, jQuery
-- **Deployment:** Vercel, Vite, Parcel, Webpack
-- **Interests:** React, Angular, Svelte, Next.js, Vue.js
+### 🔧 Tech Stack
+- **Languages & Frameworks:** HTML, CSS, JavaScript, GSAP, Astro, Node.js
+- **Design Tools:** Figma, Webflow, WordPress, Canva, Adobe CC (Photoshop, Illustrator, InDesign)
+- **Dev Tools & AI:** VS Code, Git, GitHub, Claude, ChatGPT, Vercel, Bunny.net, Chrome DevTools, Lighthouse, PageSpeed Insights
+- **Project Management:** Monday.com, Notion, Miro, Basecamp
+- **Soft Skills:** Cross-functional Collaboration, Creative Leadership, Team Mentorship, Design Systems, Performance Optimization
+- **Interests:** React (learning), Angular, Svelte, TypeScript, Tailwind, Vue, Next.js, Three.js
