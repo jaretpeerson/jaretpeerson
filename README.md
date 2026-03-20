@@ -1,7 +1,7 @@
 # Hi, I'm Jaret Peerson!
 Front-end developer and designer crafting premium digital experiences, known for design-to-code thinking, pixel-perfect execution, and a deep focus on performance, accessibility, and usability. Creator of Toggle Supply, an award-winning open-source component library recognized by CSS Design Awards as Website of the Day, built on reusable UI patterns, modern CSS techniques, and modular front-end architecture. Dedicated mentor and early AI adopter, consistently finding new ways to increase creative leverage, automate workflows, and amplify impact.
 
-📬 Reach me at: [contact@jaretpeerson.com](mailto:contact@jaretpeerson.com)
+📬 Reach me at: [contact@jaretpeerson.com](mailto:contact@jaretpeerson.com)<br>
 🌐 Visit my site: [toggle.supply](https://toggle.supply)
 
 ### 🔧 Tech Stack
